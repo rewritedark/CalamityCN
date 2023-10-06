@@ -1,7 +1,7 @@
 Mods: {
 	InfernumMode: {
 		Cooldowns: {
-			SealocketForcefieldCooldown: 力场冷却
+			SealocketForcefieldCooldown: 力场冷
 			InfiniteFlightCooldown: 无限飞行
 		}
 
